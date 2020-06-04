@@ -1,1 +1,2 @@
 This is the file that created by the sam.
+Adding another line to make the code working.

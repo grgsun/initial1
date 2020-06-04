@@ -1,3 +1,3 @@
-#~/vin/basfdsjfs
-ljslkfsf
+#!/bin/bash
+echo "Hellow World"
 
